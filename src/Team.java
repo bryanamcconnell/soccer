@@ -1,6 +1,5 @@
 
 public class Team {
-
 	private String name, cityName;
 	private double atkRating, defRating, baseScore;
 	private int tableRank, id;
@@ -90,10 +89,9 @@ public class Team {
 
 	@Override
 	public String toString() {
-		return "Team [name=" + name + ", cityName=" + cityName + ", atkRating=" + atkRating + ", defRating=" + defRating
-				+ ", tableRank=" + tableRank + ", baseScore=" + baseScore + ", id=" + id + "]";
+		return "name=" + name + ", atkRating=" + atkRating + ", defRating=" + defRating
+				+ ", tableRank=" + tableRank + ", baseScore=" + baseScore + ", id=" + id;
 	}
 	
 	
 }
-

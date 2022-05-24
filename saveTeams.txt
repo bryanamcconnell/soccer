@@ -1,0 +1,2 @@
+Team [name=Aes, atkRating=10.0, defRating=9.0, tableRank=1, baseScore=0.0, id=1]
+Team [name=Kaa, atkRating=10.0, defRating=13.0, tableRank=2, baseScore=1.0, id=2]
